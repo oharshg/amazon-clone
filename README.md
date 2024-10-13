@@ -19,3 +19,7 @@ A web-based e-commerce platform inspired by Amazon, built using HTML, CSS, JavaS
 ## Demo
 
 https://oharshg.github.io/amazon-clone/
+
+
+https://github.com/user-attachments/assets/dcc5d282-2093-47fc-90ad-1841222a2a19
+
